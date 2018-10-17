@@ -2,7 +2,7 @@
 
 
 h1 {
-    
+
 }
 
 h2 {
@@ -35,7 +35,7 @@ footer{
     bottom:0;
     left:50%;
     /*margin-left:-200px; /*negative half the width */
-    background:white;
+    background:#2c3539;
     width:400px;
     height:100px;
     display: flex
